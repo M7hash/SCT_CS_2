@@ -1,5 +1,5 @@
 # image-Pixel-encryption-tool
-A Python image encryption tool that applies pixel-level encryption techniques such as: 
+A Python based image encryption tool that applies pixel-level encryption techniques such as: 
 - Pixel value manipulation.
 - Key-based mathematical transformations. 
 - Basic pixel swapping.
